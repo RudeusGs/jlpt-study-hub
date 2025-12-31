@@ -104,20 +104,4 @@ Mục tiêu tách bạch:
 - Business logic (TypeScript services)
 - Data persistence (LocalStorage/IndexedDB adapters)
 
-## Quản lý dữ liệu học tập
-Tuỳ thiết kế, dữ liệu có thể theo các hướng sau:
-
-1) Dữ liệu tĩnh đi kèm repo  
-- Ưu điểm: không cần backend, deploy đơn giản  
-- Nhược điểm: cập nhật dữ liệu cần build lại  
-
-2) Dữ liệu tải từ file và URL công khai  
-- Ưu điểm: cập nhật nội dung linh hoạt  
-- Nhược điểm: phụ thuộc nguồn dữ liệu bên ngoài  
-
-3) Lưu tiến độ người dùng trong trình duyệt  
-- LocalStorage: đơn giản, phù hợp dữ liệu nhỏ  
-- IndexedDB: phù hợp dữ liệu lớn, lịch sử học tập dài  
-
-Khuyến nghị: chuẩn hoá format dữ liệu và tạo adapter TypeScript để có thể đổi nguồn dữ liệu mà không phải sửa UI.
 
