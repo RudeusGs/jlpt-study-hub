@@ -15,6 +15,10 @@ jlpt-study-hub là một ứng dụng web hỗ trợ học và luyện JLPT ch�
 - Lưu trạng thái học tập trong trình duyệt (LocalStorage/IndexedDB tùy cách triển khai).
 - Không phụ thuộc backend, có thể deploy lên GitHub Pages/Netlify/Vercel như một trang tĩnh.
 - FlashCard
+## Nguồn dữ liệu
+- Dữ liệu từ vựng trong dự án này được tổng hợp và tham khảo từ nhiều nguồn, trong đó có nội dung dựa trên giáo trình **Minna no Nihongo**.
+- Dữ liệu được chuyển đổi, diễn giải lại và sử dụng **chỉ cho mục đích học tập cá nhân**, không nhằm mục đích sao chép, phân phối hay thay thế nội dung gốc của giáo trình.
+- Dự án không cung cấp bản scan, bản chép nguyên văn hoặc nội dung đầy đủ của bất kỳ tài liệu có bản quyền nào.
 
 ## Công nghệ sử dụng
 - Vue (khuyến nghị Vue 3)
