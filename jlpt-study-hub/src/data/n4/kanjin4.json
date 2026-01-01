@@ -1,0 +1,2396 @@
+{
+  "source_file": "ÔN TẬP HÁN TỰ N4 (277-402).pptx",
+  "generated_at": "2025-12-27T15:54:33.553532Z",
+  "slide_count": 340,
+  "page_range": {
+    "from": 277,
+    "to": 402
+  },
+  "entries": [
+    {
+      "id": 1,
+      "term": "一度",
+      "reading": "いちど",
+      "page": 277,
+      "meaning": "một lần; một lần nữa"
+    },
+    {
+      "id": 2,
+      "term": "温度",
+      "reading": "おんど",
+      "page": 277,
+      "meaning": "nhiệt độ"
+    },
+    {
+      "id": 3,
+      "term": "度",
+      "reading": "たび",
+      "page": 277,
+      "meaning": "lần; dịp"
+    },
+    {
+      "id": 4,
+      "term": "焼く",
+      "reading": "やく",
+      "page": 278,
+      "meaning": "nướng; đốt; nung"
+    },
+    {
+      "id": 5,
+      "term": "焼ける",
+      "reading": "やける",
+      "page": 278,
+      "meaning": "bị cháy; chín (nướng)"
+    },
+    {
+      "id": 6,
+      "term": "焼き鳥",
+      "reading": "やきとり",
+      "page": 278,
+      "meaning": "gà nướng"
+    },
+    {
+      "id": 7,
+      "term": "全焼する",
+      "reading": "ぜんしょうする",
+      "page": 278,
+      "meaning": "cháy rụi; cháy toàn bộ"
+    },
+    {
+      "id": 8,
+      "term": "～君",
+      "reading": "～くん",
+      "page": 279,
+      "meaning": "hậu tố gọi nam (–kun)"
+    },
+    {
+      "id": 9,
+      "term": "君",
+      "reading": "きみ",
+      "page": 279,
+      "meaning": "bạn; cậu"
+    },
+    {
+      "id": 10,
+      "term": "同じ",
+      "reading": "おなじ",
+      "page": 280,
+      "meaning": "giống; như nhau"
+    },
+    {
+      "id": 11,
+      "term": "同時に",
+      "reading": "どうじに",
+      "page": 280,
+      "meaning": "đồng thời; cùng lúc"
+    },
+    {
+      "id": 12,
+      "term": "思う",
+      "reading": "おもう",
+      "page": 281,
+      "meaning": "nghĩ; cảm thấy"
+    },
+    {
+      "id": 13,
+      "term": "思い出す",
+      "reading": "おもいだす",
+      "page": 281,
+      "meaning": "nhớ lại; hồi tưởng"
+    },
+    {
+      "id": 14,
+      "term": "思い出",
+      "reading": "おもいで",
+      "page": 281,
+      "meaning": "kỷ niệm"
+    },
+    {
+      "id": 15,
+      "term": "意見",
+      "reading": "いけん",
+      "page": 282,
+      "meaning": "ý kiến"
+    },
+    {
+      "id": 16,
+      "term": "意味",
+      "reading": "いみ",
+      "page": 282,
+      "meaning": "ý nghĩa"
+    },
+    {
+      "id": 17,
+      "term": "役に立つ",
+      "reading": "やくにたつ",
+      "page": 283,
+      "meaning": "có ích; hữu dụng"
+    },
+    {
+      "id": 18,
+      "term": "区役所",
+      "reading": "くやくしょ",
+      "page": 283,
+      "meaning": "ủy ban/văn phòng hành chính quận"
+    },
+    {
+      "id": 19,
+      "term": "主役",
+      "reading": "しゅやく",
+      "page": 283,
+      "meaning": "vai chính; nhân vật chính"
+    },
+    {
+      "id": 20,
+      "term": "交わる",
+      "reading": "まじわる",
+      "page": 284,
+      "meaning": "giao nhau; giao tiếp/qua lại"
+    },
+    {
+      "id": 21,
+      "term": "交差点",
+      "reading": "こうさてん",
+      "page": 284,
+      "meaning": "ngã tư; giao lộ"
+    },
+    {
+      "id": 22,
+      "term": "交番",
+      "reading": "こうばん",
+      "page": 284,
+      "meaning": "đồn cảnh sát"
+    },
+    {
+      "id": 23,
+      "term": "通る",
+      "reading": "とおる",
+      "page": 285,
+      "meaning": "đi qua; thông qua"
+    },
+    {
+      "id": 24,
+      "term": "通す",
+      "reading": "とおす",
+      "page": 285,
+      "meaning": "cho qua; thông qua; xuyên qua"
+    },
+    {
+      "id": 25,
+      "term": "通う",
+      "reading": "かよう",
+      "page": 285,
+      "meaning": "đi lại thường xuyên (đi học/đi làm)"
+    },
+    {
+      "id": 26,
+      "term": "交通",
+      "reading": "こうつう",
+      "page": 285,
+      "meaning": "giao thông"
+    },
+    {
+      "id": 27,
+      "term": "質問",
+      "reading": "しつもん",
+      "page": 286,
+      "meaning": "câu hỏi"
+    },
+    {
+      "id": 28,
+      "term": "体質",
+      "reading": "たいしつ",
+      "page": 286,
+      "meaning": "thể chất; cơ địa"
+    },
+    {
+      "id": 29,
+      "term": "質屋",
+      "reading": "しちや",
+      "page": 286,
+      "meaning": "tiệm cầm đồ"
+    },
+    {
+      "id": 30,
+      "term": "問う",
+      "reading": "とう",
+      "page": 287,
+      "meaning": "hỏi; chất vấn"
+    },
+    {
+      "id": 31,
+      "term": "問い",
+      "reading": "とい",
+      "page": 287,
+      "meaning": "câu hỏi; vấn đề hỏi"
+    },
+    {
+      "id": 32,
+      "term": "問題",
+      "reading": "もんだい",
+      "page": 287,
+      "meaning": "vấn đề; câu hỏi/bài tập"
+    },
+    {
+      "id": 33,
+      "term": "不便な",
+      "reading": "ふべんな",
+      "page": 288,
+      "meaning": "bất tiện"
+    },
+    {
+      "id": 34,
+      "term": "不思議な",
+      "reading": "ふしぎな",
+      "page": 288,
+      "meaning": "kỳ lạ; bí ẩn"
+    },
+    {
+      "id": 35,
+      "term": "不安な",
+      "reading": "ふあんな",
+      "page": 288,
+      "meaning": "bất an; lo lắng"
+    },
+    {
+      "id": 36,
+      "term": "～便",
+      "reading": "～びん",
+      "page": 289,
+      "meaning": "chuyến/đợt (thư/chuyến bay); loại ..."
+    },
+    {
+      "id": 37,
+      "term": "便利な",
+      "reading": "べんりな",
+      "page": 289,
+      "meaning": "tiện lợi"
+    },
+    {
+      "id": 38,
+      "term": "便り",
+      "reading": "たより",
+      "page": 289,
+      "meaning": "tin tức; thư từ; sự liên lạc"
+    },
+    {
+      "id": 39,
+      "term": "利く",
+      "reading": "きく",
+      "page": 290,
+      "meaning": "có tác dụng; hiệu nghiệm"
+    },
+    {
+      "id": 40,
+      "term": "利用する",
+      "reading": "りようする",
+      "page": 290,
+      "meaning": "sử dụng; tận dụng"
+    },
+    {
+      "id": 41,
+      "term": "左利き",
+      "reading": "ひだりきき",
+      "page": 290,
+      "meaning": "thuận tay trái"
+    },
+    {
+      "id": 42,
+      "term": "郵便局",
+      "reading": "ゆうびんきょく",
+      "page": 291,
+      "meaning": "bưu điện"
+    },
+    {
+      "id": 43,
+      "term": "放送局",
+      "reading": "ほうそうきょく",
+      "page": 291,
+      "meaning": "đài phát thanh/truyền hình"
+    },
+    {
+      "id": 44,
+      "term": "結局",
+      "reading": "けっきょく",
+      "page": 291,
+      "meaning": "cuối cùng; rốt cuộc"
+    },
+    {
+      "id": 45,
+      "term": "服",
+      "reading": "ふく",
+      "page": 292,
+      "meaning": "quần áo"
+    },
+    {
+      "id": 46,
+      "term": "洋服",
+      "reading": "ようふく",
+      "page": 292,
+      "meaning": "quần áo kiểu Tây/Âu"
+    },
+    {
+      "id": 47,
+      "term": "和服",
+      "reading": "わふく",
+      "page": 292,
+      "meaning": "trang phục Nhật (kimono, v.v.)"
+    },
+    {
+      "id": 48,
+      "term": "着る",
+      "reading": "きる",
+      "page": 293,
+      "meaning": "mặc (áo/quần)"
+    },
+    {
+      "id": 49,
+      "term": "着く",
+      "reading": "つく",
+      "page": 293,
+      "meaning": "đến nơi"
+    },
+    {
+      "id": 50,
+      "term": "到着する",
+      "reading": "とうちゃくする",
+      "page": 293,
+      "meaning": "đến nơi; tới nơi"
+    },
+    {
+      "id": 51,
+      "term": "願う",
+      "reading": "ねがう",
+      "page": 294,
+      "meaning": "mong; cầu nguyện; ước"
+    },
+    {
+      "id": 52,
+      "term": "お願いする",
+      "reading": "おねがいする",
+      "page": 294,
+      "meaning": "nhờ; yêu cầu"
+    },
+    {
+      "id": 53,
+      "term": "願書",
+      "reading": "がんしょ",
+      "page": 294,
+      "meaning": "đơn xin (hồ sơ nộp)"
+    },
+    {
+      "id": 54,
+      "term": "部屋",
+      "reading": "へや",
+      "page": 295,
+      "meaning": "phòng"
+    },
+    {
+      "id": 55,
+      "term": "全部で",
+      "reading": "ぜんぶで",
+      "page": 295,
+      "meaning": "tổng cộng"
+    },
+    {
+      "id": 56,
+      "term": "部長",
+      "reading": "ぶちょう",
+      "page": 295,
+      "meaning": "trưởng phòng; trưởng bộ phận"
+    },
+    {
+      "id": 57,
+      "term": "予約する",
+      "reading": "よやくする",
+      "page": 296,
+      "meaning": "đặt trước; đặt chỗ"
+    },
+    {
+      "id": 58,
+      "term": "約～",
+      "reading": "やく～",
+      "page": 296,
+      "meaning": "khoảng; xấp xỉ ~"
+    },
+    {
+      "id": 59,
+      "term": "花束",
+      "reading": "はなたば",
+      "page": 297,
+      "meaning": "bó hoa"
+    },
+    {
+      "id": 60,
+      "term": "約束",
+      "reading": "やくそく",
+      "page": 297,
+      "meaning": "lời hứa; cuộc hẹn"
+    },
+    {
+      "id": 61,
+      "term": "自転車",
+      "reading": "じてんしゃ",
+      "page": 298,
+      "meaning": "xe đạp"
+    },
+    {
+      "id": 62,
+      "term": "自分で",
+      "reading": "じぶんで",
+      "page": 298,
+      "meaning": "tự mình"
+    },
+    {
+      "id": 63,
+      "term": "自然",
+      "reading": "しぜん",
+      "page": 298,
+      "meaning": "tự nhiên"
+    },
+    {
+      "id": 64,
+      "term": "動く",
+      "reading": "うごく",
+      "page": 299,
+      "meaning": "di chuyển; hoạt động"
+    },
+    {
+      "id": 65,
+      "term": "動かす",
+      "reading": "うごかす",
+      "page": 299,
+      "meaning": "làm di chuyển; vận hành"
+    },
+    {
+      "id": 66,
+      "term": "自動車",
+      "reading": "じどうしゃ",
+      "page": 299,
+      "meaning": "ô tô"
+    },
+    {
+      "id": 67,
+      "term": "運動する",
+      "reading": "うんどうする",
+      "page": 299,
+      "meaning": "vận động; tập thể dục"
+    },
+    {
+      "id": 68,
+      "term": "信じる",
+      "reading": "しんじる",
+      "page": 300,
+      "meaning": "tin tưởng"
+    },
+    {
+      "id": 69,
+      "term": "信号",
+      "reading": "しんごう",
+      "page": 300,
+      "meaning": "đèn giao thông; tín hiệu"
+    },
+    {
+      "id": 70,
+      "term": "自信",
+      "reading": "じしん",
+      "page": 300,
+      "meaning": "tự tin"
+    },
+    {
+      "id": 71,
+      "term": "味わう",
+      "reading": "あじわう",
+      "page": 301,
+      "meaning": "thưởng thức; nếm trải"
+    },
+    {
+      "id": 72,
+      "term": "味",
+      "reading": "あじ",
+      "page": 301,
+      "meaning": "vị; mùi vị"
+    },
+    {
+      "id": 73,
+      "term": "趣味",
+      "reading": "しゅみ",
+      "page": 301,
+      "meaning": "sở thích"
+    },
+    {
+      "id": 74,
+      "term": "意味",
+      "reading": "いみ",
+      "page": 301,
+      "meaning": "ý nghĩa"
+    },
+    {
+      "id": 75,
+      "term": "悲しい",
+      "reading": "かなしい",
+      "page": 302,
+      "meaning": "buồn"
+    },
+    {
+      "id": 76,
+      "term": "悲しむ",
+      "reading": "かなしむ",
+      "page": 302,
+      "meaning": "buồn; than khóc"
+    },
+    {
+      "id": 77,
+      "term": "橋",
+      "reading": "はし",
+      "page": 303,
+      "meaning": "cây cầu"
+    },
+    {
+      "id": 78,
+      "term": "歩道橋",
+      "reading": "ほどうきょう",
+      "page": 303,
+      "meaning": "cầu vượt cho người đi bộ"
+    },
+    {
+      "id": 79,
+      "term": "鉄橋",
+      "reading": "てっきょう",
+      "page": 303,
+      "meaning": "cầu sắt"
+    },
+    {
+      "id": 80,
+      "term": "札",
+      "reading": "さつ",
+      "page": 304,
+      "meaning": "tờ tiền (giấy bạc)"
+    },
+    {
+      "id": 81,
+      "term": "改札口",
+      "reading": "かいさつぐち",
+      "page": 304,
+      "meaning": "cổng soát vé"
+    },
+    {
+      "id": 82,
+      "term": "番号札",
+      "reading": "ばんごうふだ",
+      "page": 304,
+      "meaning": "phiếu số thứ tự"
+    },
+    {
+      "id": 83,
+      "term": "東",
+      "reading": "ひがし",
+      "page": 305,
+      "meaning": "phía Đông"
+    },
+    {
+      "id": 84,
+      "term": "東洋",
+      "reading": "とうよう",
+      "page": 305,
+      "meaning": "phương Đông"
+    },
+    {
+      "id": 85,
+      "term": "東口",
+      "reading": "ひがしぐち",
+      "page": 305,
+      "meaning": "cửa/lối ra phía Đông"
+    },
+    {
+      "id": 86,
+      "term": "東京タワー",
+      "reading": "とうきょうタワー",
+      "page": 306,
+      "meaning": "Tháp Tokyo"
+    },
+    {
+      "id": 87,
+      "term": "京都",
+      "reading": "きょうと",
+      "page": 306,
+      "meaning": "Kyoto"
+    },
+    {
+      "id": 88,
+      "term": "京浜",
+      "reading": "けいひん",
+      "page": 306,
+      "meaning": "vùng Keihin (Tokyo–Yokohama)"
+    },
+    {
+      "id": 89,
+      "term": "西",
+      "reading": "にし",
+      "page": 307,
+      "meaning": "phía Tây"
+    },
+    {
+      "id": 90,
+      "term": "関西地方",
+      "reading": "かんさいちほう",
+      "page": 307,
+      "meaning": "vùng Kansai"
+    },
+    {
+      "id": 91,
+      "term": "大西洋",
+      "reading": "たいせいよう",
+      "page": 307,
+      "meaning": "Đại Tây Dương"
+    },
+    {
+      "id": 92,
+      "term": "南",
+      "reading": "みなみ",
+      "page": 308,
+      "meaning": "phía Nam"
+    },
+    {
+      "id": 93,
+      "term": "南側",
+      "reading": "みなみがわ",
+      "page": 308,
+      "meaning": "phía/bên Nam"
+    },
+    {
+      "id": 94,
+      "term": "東南アジア",
+      "reading": "とうなんアジア",
+      "page": 308,
+      "meaning": "Đông Nam Á"
+    },
+    {
+      "id": 95,
+      "term": "北",
+      "reading": "きた",
+      "page": 309,
+      "meaning": "phía Bắc"
+    },
+    {
+      "id": 96,
+      "term": "北風",
+      "reading": "きたかぜ",
+      "page": 309,
+      "meaning": "gió Bắc"
+    },
+    {
+      "id": 97,
+      "term": "東北",
+      "reading": "とうほく",
+      "page": 309,
+      "meaning": "vùng Tohoku; đông bắc"
+    },
+    {
+      "id": 98,
+      "term": "北海道",
+      "reading": "ほっかいどう",
+      "page": 309,
+      "meaning": "Hokkaidō"
+    },
+    {
+      "id": 99,
+      "term": "案",
+      "reading": "あん",
+      "page": 310,
+      "meaning": "phương án; đề án"
+    },
+    {
+      "id": 100,
+      "term": "案内する",
+      "reading": "あんないする",
+      "page": 310,
+      "meaning": "hướng dẫn; dẫn đường"
+    },
+    {
+      "id": 101,
+      "term": "形",
+      "reading": "かたち",
+      "page": 311,
+      "meaning": "hình dạng"
+    },
+    {
+      "id": 102,
+      "term": "過去形",
+      "reading": "かこけい",
+      "page": 311,
+      "meaning": "thể quá khứ"
+    },
+    {
+      "id": 103,
+      "term": "人形",
+      "reading": "にんぎょう",
+      "page": 311,
+      "meaning": "búp bê"
+    },
+    {
+      "id": 104,
+      "term": "調べる",
+      "reading": "しらべる",
+      "page": 312,
+      "meaning": "tra cứu; điều tra; kiểm tra"
+    },
+    {
+      "id": 105,
+      "term": "調子",
+      "reading": "ちょうし",
+      "page": 312,
+      "meaning": "tình trạng; phong độ"
+    },
+    {
+      "id": 106,
+      "term": "調節する",
+      "reading": "ちょうせつする",
+      "page": 313,
+      "meaning": "điều chỉnh"
+    },
+    {
+      "id": 107,
+      "term": "季節",
+      "reading": "きせつ",
+      "page": 313,
+      "meaning": "mùa"
+    },
+    {
+      "id": 108,
+      "term": "関節",
+      "reading": "かんせつ",
+      "page": 313,
+      "meaning": "khớp (xương)"
+    },
+    {
+      "id": 109,
+      "term": "連れる",
+      "reading": "つれる",
+      "page": 314,
+      "meaning": "dẫn theo; dắt theo"
+    },
+    {
+      "id": 110,
+      "term": "連れて来る",
+      "reading": "つれてくる",
+      "page": 314,
+      "meaning": "dẫn/đưa (ai) đến"
+    },
+    {
+      "id": 111,
+      "term": "連絡する",
+      "reading": "れんらくする",
+      "page": 314,
+      "meaning": "liên lạc"
+    },
+    {
+      "id": 112,
+      "term": "連休",
+      "reading": "れんきゅう",
+      "page": 314,
+      "meaning": "kỳ nghỉ liên tiếp"
+    },
+    {
+      "id": 113,
+      "term": "説明する",
+      "reading": "せつめいする",
+      "page": 315,
+      "meaning": "giải thích"
+    },
+    {
+      "id": 114,
+      "term": "小説",
+      "reading": "しょうせつ",
+      "page": 315,
+      "meaning": "tiểu thuyết"
+    },
+    {
+      "id": 115,
+      "term": "解説",
+      "reading": "かいせつ",
+      "page": 315,
+      "meaning": "thuyết minh; lời giải thích/bình luận"
+    },
+    {
+      "id": 116,
+      "term": "考える",
+      "reading": "かんがえる",
+      "page": 316,
+      "meaning": "suy nghĩ; cân nhắc"
+    },
+    {
+      "id": 117,
+      "term": "参考書",
+      "reading": "さんこうしょ",
+      "page": 316,
+      "meaning": "sách tham khảo"
+    },
+    {
+      "id": 118,
+      "term": "続く",
+      "reading": "つづく",
+      "page": 317,
+      "meaning": "tiếp tục; kéo dài"
+    },
+    {
+      "id": 119,
+      "term": "続ける",
+      "reading": "つづける",
+      "page": 317,
+      "meaning": "tiếp tục (làm)"
+    },
+    {
+      "id": 120,
+      "term": "連続",
+      "reading": "れんぞく",
+      "page": 317,
+      "meaning": "liên tục"
+    },
+    {
+      "id": 121,
+      "term": "直す",
+      "reading": "なおす",
+      "page": 318,
+      "meaning": "sửa; chữa; làm lại"
+    },
+    {
+      "id": 122,
+      "term": "直る",
+      "reading": "なおる",
+      "page": 318,
+      "meaning": "được sửa; khỏi (bệnh)"
+    },
+    {
+      "id": 123,
+      "term": "直接",
+      "reading": "ちょくせつ",
+      "page": 318,
+      "meaning": "trực tiếp"
+    },
+    {
+      "id": 124,
+      "term": "正直な",
+      "reading": "しょうじきな",
+      "page": 318,
+      "meaning": "thật thà; trung thực"
+    },
+    {
+      "id": 125,
+      "term": "世の中",
+      "reading": "よのなか",
+      "page": 319,
+      "meaning": "xã hội; thế gian"
+    },
+    {
+      "id": 126,
+      "term": "世話",
+      "reading": "せわ",
+      "page": 319,
+      "meaning": "chăm sóc; giúp đỡ"
+    },
+    {
+      "id": 127,
+      "term": "～世紀",
+      "reading": "～せいき",
+      "page": 319,
+      "meaning": "thế kỷ ~"
+    },
+    {
+      "id": 128,
+      "term": "世界",
+      "reading": "せかい",
+      "page": 320,
+      "meaning": "thế giới"
+    },
+    {
+      "id": 129,
+      "term": "研ぐ",
+      "reading": "とぐ",
+      "page": 321,
+      "meaning": "mài (dao); giũa"
+    },
+    {
+      "id": 130,
+      "term": "研修",
+      "reading": "けんしゅう",
+      "page": 321,
+      "meaning": "đào tạo; tập huấn"
+    },
+    {
+      "id": 131,
+      "term": "研究",
+      "reading": "けんきゅう",
+      "page": 322,
+      "meaning": "nghiên cứu"
+    },
+    {
+      "id": 132,
+      "term": "究明する",
+      "reading": "きゅうめいする",
+      "page": 322,
+      "meaning": "làm rõ; điều tra đến cùng"
+    },
+    {
+      "id": 133,
+      "term": "道",
+      "reading": "みち",
+      "page": 323,
+      "meaning": "con đường"
+    },
+    {
+      "id": 134,
+      "term": "道路",
+      "reading": "どうろ",
+      "page": 323,
+      "meaning": "đường xá; đường bộ"
+    },
+    {
+      "id": 135,
+      "term": "茶道",
+      "reading": "さどう",
+      "page": 323,
+      "meaning": "trà đạo"
+    },
+    {
+      "id": 136,
+      "term": "道具",
+      "reading": "どうぐ",
+      "page": 324,
+      "meaning": "dụng cụ"
+    },
+    {
+      "id": 137,
+      "term": "家具",
+      "reading": "かぐ",
+      "page": 324,
+      "meaning": "đồ nội thất"
+    },
+    {
+      "id": 138,
+      "term": "具体的な",
+      "reading": "ぐたいてきな",
+      "page": 324,
+      "meaning": "cụ thể"
+    },
+    {
+      "id": 139,
+      "term": "夕方",
+      "reading": "ゆうがた",
+      "page": 325,
+      "meaning": "chiều tối"
+    },
+    {
+      "id": 140,
+      "term": "夕食",
+      "reading": "ゆうしょく",
+      "page": 325,
+      "meaning": "bữa tối"
+    },
+    {
+      "id": 141,
+      "term": "夕刊",
+      "reading": "ゆうかん",
+      "page": 325,
+      "meaning": "báo chiều"
+    },
+    {
+      "id": 142,
+      "term": "お湯",
+      "reading": "おゆ",
+      "page": 326,
+      "meaning": "nước nóng"
+    },
+    {
+      "id": 143,
+      "term": "銭湯",
+      "reading": "せんとう",
+      "page": 326,
+      "meaning": "nhà tắm công cộng"
+    },
+    {
+      "id": 144,
+      "term": "機械",
+      "reading": "きかい",
+      "page": 327,
+      "meaning": "máy móc"
+    },
+    {
+      "id": 145,
+      "term": "角",
+      "reading": "かど",
+      "page": 328,
+      "meaning": "góc; góc đường"
+    },
+    {
+      "id": 146,
+      "term": "三角形",
+      "reading": "さんかっけい",
+      "page": 328,
+      "meaning": "hình tam giác"
+    },
+    {
+      "id": 147,
+      "term": "声",
+      "reading": "こえ",
+      "page": 329,
+      "meaning": "giọng; tiếng"
+    },
+    {
+      "id": 148,
+      "term": "発声",
+      "reading": "はっせい",
+      "page": 329,
+      "meaning": "phát âm; phát tiếng"
+    },
+    {
+      "id": 149,
+      "term": "向かう",
+      "reading": "むかう",
+      "page": 330,
+      "meaning": "hướng tới; đi về phía"
+    },
+    {
+      "id": 150,
+      "term": "向こう",
+      "reading": "むこう",
+      "page": 330,
+      "meaning": "phía bên kia; đằng kia"
+    },
+    {
+      "id": 151,
+      "term": "方向",
+      "reading": "ほうこう",
+      "page": 330,
+      "meaning": "hướng; phương hướng"
+    },
+    {
+      "id": 152,
+      "term": "左側",
+      "reading": "ひだりがわ",
+      "page": 331,
+      "meaning": "bên trái"
+    },
+    {
+      "id": 153,
+      "term": "内側",
+      "reading": "うちがわ",
+      "page": 331,
+      "meaning": "phía/bên trong"
+    },
+    {
+      "id": 154,
+      "term": "打つ",
+      "reading": "うつ",
+      "page": 332,
+      "meaning": "đánh; gõ; (bóng chày) đánh"
+    },
+    {
+      "id": 155,
+      "term": "打者",
+      "reading": "だしゃ",
+      "page": 332,
+      "meaning": "người đánh bóng (bóng chày)"
+    },
+    {
+      "id": 156,
+      "term": "川",
+      "reading": "かわ",
+      "page": 333,
+      "meaning": "sông"
+    },
+    {
+      "id": 157,
+      "term": "海",
+      "reading": "うみ",
+      "page": 334,
+      "meaning": "biển"
+    },
+    {
+      "id": 158,
+      "term": "海水浴",
+      "reading": "かいすいよく",
+      "page": 334,
+      "meaning": "tắm biển"
+    },
+    {
+      "id": 159,
+      "term": "波",
+      "reading": "なみ",
+      "page": 335,
+      "meaning": "sóng"
+    },
+    {
+      "id": 160,
+      "term": "電波",
+      "reading": "でんぱ",
+      "page": 335,
+      "meaning": "sóng điện (radio)"
+    },
+    {
+      "id": 161,
+      "term": "寒波",
+      "reading": "かんぱ",
+      "page": 335,
+      "meaning": "đợt không khí lạnh; rét đậm"
+    },
+    {
+      "id": 162,
+      "term": "流す",
+      "reading": "ながす",
+      "page": 336,
+      "meaning": "làm chảy; xả; cho trôi"
+    },
+    {
+      "id": 163,
+      "term": "流れる",
+      "reading": "ながれる",
+      "page": 336,
+      "meaning": "chảy; trôi"
+    },
+    {
+      "id": 164,
+      "term": "流行",
+      "reading": "りゅうこう",
+      "page": 336,
+      "meaning": "xu hướng; trào lưu; dịch"
+    },
+    {
+      "id": 165,
+      "term": "太平洋",
+      "reading": "たいへいよう",
+      "page": 337,
+      "meaning": "Thái Bình Dương"
+    },
+    {
+      "id": 166,
+      "term": "洋式",
+      "reading": "ようしき",
+      "page": 337,
+      "meaning": "kiểu Tây/Âu"
+    },
+    {
+      "id": 167,
+      "term": "洋食",
+      "reading": "ようしょく",
+      "page": 337,
+      "meaning": "món Tây/Âu"
+    },
+    {
+      "id": 168,
+      "term": "岩",
+      "reading": "いわ",
+      "page": 338,
+      "meaning": "đá tảng"
+    },
+    {
+      "id": 169,
+      "term": "岩石",
+      "reading": "がんせき",
+      "page": 338,
+      "meaning": "nham thạch; đá"
+    },
+    {
+      "id": 170,
+      "term": "海岸",
+      "reading": "かいがん",
+      "page": 339,
+      "meaning": "bờ biển"
+    },
+    {
+      "id": 171,
+      "term": "川岸",
+      "reading": "かわぎし",
+      "page": 339,
+      "meaning": "bờ sông"
+    },
+    {
+      "id": 172,
+      "term": "島",
+      "reading": "しま",
+      "page": 340,
+      "meaning": "đảo"
+    },
+    {
+      "id": 173,
+      "term": "島国",
+      "reading": "しまぐに",
+      "page": 340,
+      "meaning": "quốc đảo"
+    },
+    {
+      "id": 174,
+      "term": "半島",
+      "reading": "はんとう",
+      "page": 340,
+      "meaning": "bán đảo"
+    },
+    {
+      "id": 175,
+      "term": "氷",
+      "reading": "こおり",
+      "page": 341,
+      "meaning": "băng; đá (lạnh)"
+    },
+    {
+      "id": 176,
+      "term": "氷山",
+      "reading": "ひょうざん",
+      "page": 341,
+      "meaning": "núi băng"
+    },
+    {
+      "id": 177,
+      "term": "貝",
+      "reading": "かい",
+      "page": 342,
+      "meaning": "sò; ốc; vỏ sò"
+    },
+    {
+      "id": 178,
+      "term": "風",
+      "reading": "かぜ",
+      "page": 343,
+      "meaning": "gió; cảm (ốm)"
+    },
+    {
+      "id": 179,
+      "term": "台風",
+      "reading": "たいふう",
+      "page": 343,
+      "meaning": "bão (typhoon)"
+    },
+    {
+      "id": 180,
+      "term": "扇風機",
+      "reading": "せんぷうき",
+      "page": 343,
+      "meaning": "quạt điện"
+    },
+    {
+      "id": 181,
+      "term": "弱い",
+      "reading": "よわい",
+      "page": 344,
+      "meaning": "yếu"
+    },
+    {
+      "id": 182,
+      "term": "弱点",
+      "reading": "じゃくてん",
+      "page": 344,
+      "meaning": "điểm yếu"
+    },
+    {
+      "id": 183,
+      "term": "当たる",
+      "reading": "あたる",
+      "page": 345,
+      "meaning": "trúng; đúng; va/chạm"
+    },
+    {
+      "id": 184,
+      "term": "弁当",
+      "reading": "べんとう",
+      "page": 345,
+      "meaning": "cơm hộp"
+    },
+    {
+      "id": 185,
+      "term": "本当",
+      "reading": "ほんとう",
+      "page": 345,
+      "meaning": "thật; sự thật"
+    },
+    {
+      "id": 186,
+      "term": "組み立てる",
+      "reading": "くみたてる",
+      "page": 346,
+      "meaning": "lắp ráp"
+    },
+    {
+      "id": 187,
+      "term": "番組",
+      "reading": "ばんぐみ",
+      "page": 346,
+      "meaning": "chương trình (TV/radio)"
+    },
+    {
+      "id": 188,
+      "term": "組織",
+      "reading": "そしき",
+      "page": 346,
+      "meaning": "tổ chức"
+    },
+    {
+      "id": 189,
+      "term": "色",
+      "reading": "いろ",
+      "page": 347,
+      "meaning": "màu"
+    },
+    {
+      "id": 190,
+      "term": "特色",
+      "reading": "とくしょく",
+      "page": 347,
+      "meaning": "đặc trưng"
+    },
+    {
+      "id": 191,
+      "term": "景色",
+      "reading": "けしき",
+      "page": 347,
+      "meaning": "phong cảnh"
+    },
+    {
+      "id": 192,
+      "term": "品物",
+      "reading": "しなもの",
+      "page": 348,
+      "meaning": "hàng hóa; món đồ"
+    },
+    {
+      "id": 193,
+      "term": "食品",
+      "reading": "しょくひん",
+      "page": 348,
+      "meaning": "thực phẩm"
+    },
+    {
+      "id": 194,
+      "term": "部品",
+      "reading": "ぶひん",
+      "page": 348,
+      "meaning": "linh kiện; phụ tùng"
+    },
+    {
+      "id": 195,
+      "term": "選ぶ",
+      "reading": "えらぶ",
+      "page": 349,
+      "meaning": "chọn"
+    },
+    {
+      "id": 196,
+      "term": "選択する",
+      "reading": "せんたくする",
+      "page": 349,
+      "meaning": "lựa chọn"
+    },
+    {
+      "id": 197,
+      "term": "選挙",
+      "reading": "せんきょ",
+      "page": 349,
+      "meaning": "bầu cử"
+    },
+    {
+      "id": 198,
+      "term": "試す",
+      "reading": "ためす",
+      "page": 350,
+      "meaning": "thử; thử nghiệm"
+    },
+    {
+      "id": 199,
+      "term": "試着する",
+      "reading": "しちゃくする",
+      "page": 350,
+      "meaning": "thử đồ (mặc thử)"
+    },
+    {
+      "id": 200,
+      "term": "追試",
+      "reading": "ついし",
+      "page": 350,
+      "meaning": "thi lại (thi bù)"
+    },
+    {
+      "id": 201,
+      "term": "試験",
+      "reading": "しけん",
+      "page": 351,
+      "meaning": "kỳ thi"
+    },
+    {
+      "id": 202,
+      "term": "経験",
+      "reading": "けいけん",
+      "page": 351,
+      "meaning": "kinh nghiệm"
+    },
+    {
+      "id": 203,
+      "term": "受験する",
+      "reading": "じゅけんする",
+      "page": 351,
+      "meaning": "dự thi; thi tuyển"
+    },
+    {
+      "id": 204,
+      "term": "皿",
+      "reading": "さら",
+      "page": 352,
+      "meaning": "đĩa"
+    },
+    {
+      "id": 205,
+      "term": "灰皿",
+      "reading": "はいざら",
+      "page": 352,
+      "meaning": "gạt tàn"
+    },
+    {
+      "id": 206,
+      "term": "両親",
+      "reading": "りょうしん",
+      "page": 353,
+      "meaning": "bố mẹ"
+    },
+    {
+      "id": 207,
+      "term": "両方",
+      "reading": "りょうほう",
+      "page": 353,
+      "meaning": "cả hai"
+    },
+    {
+      "id": 208,
+      "term": "～両目",
+      "reading": "～りょうめ",
+      "page": 353,
+      "meaning": "toa thứ ~ (của tàu)"
+    },
+    {
+      "id": 209,
+      "term": "予定",
+      "reading": "よてい",
+      "page": 354,
+      "meaning": "dự định; kế hoạch"
+    },
+    {
+      "id": 210,
+      "term": "定規",
+      "reading": "じょうぎ",
+      "page": 354,
+      "meaning": "thước kẻ"
+    },
+    {
+      "id": 211,
+      "term": "定期",
+      "reading": "ていき",
+      "page": 355,
+      "meaning": "định kỳ"
+    },
+    {
+      "id": 212,
+      "term": "期末テスト",
+      "reading": "きまつテスト",
+      "page": 355,
+      "meaning": "bài kiểm tra cuối kỳ"
+    },
+    {
+      "id": 213,
+      "term": "期待する",
+      "reading": "きたいする",
+      "page": 355,
+      "meaning": "kỳ vọng; mong đợi"
+    },
+    {
+      "id": 214,
+      "term": "手帳",
+      "reading": "てちょう",
+      "page": 356,
+      "meaning": "sổ tay"
+    },
+    {
+      "id": 215,
+      "term": "預金通帳",
+      "reading": "よきんつうちょう",
+      "page": 356,
+      "meaning": "sổ tiết kiệm/sổ ngân hàng"
+    },
+    {
+      "id": 216,
+      "term": "種類",
+      "reading": "しゅるい",
+      "page": 357,
+      "meaning": "chủng loại; loại"
+    },
+    {
+      "id": 217,
+      "term": "書類",
+      "reading": "しょるい",
+      "page": 357,
+      "meaning": "giấy tờ; tài liệu"
+    },
+    {
+      "id": 218,
+      "term": "人類",
+      "reading": "じんるい",
+      "page": 357,
+      "meaning": "nhân loại"
+    },
+    {
+      "id": 219,
+      "term": "落とす",
+      "reading": "おとす",
+      "page": 358,
+      "meaning": "làm rơi; đánh rơi"
+    },
+    {
+      "id": 220,
+      "term": "落ちる",
+      "reading": "おちる",
+      "page": 358,
+      "meaning": "rơi; rớt"
+    },
+    {
+      "id": 221,
+      "term": "落第する",
+      "reading": "らくだいする",
+      "page": 358,
+      "meaning": "lưu ban; rớt môn"
+    },
+    {
+      "id": 222,
+      "term": "拾う",
+      "reading": "ひろう",
+      "page": 359,
+      "meaning": "nhặt"
+    },
+    {
+      "id": 223,
+      "term": "捨てる",
+      "reading": "すてる",
+      "page": 360,
+      "meaning": "vứt; bỏ"
+    },
+    {
+      "id": 224,
+      "term": "四捨五入",
+      "reading": "ししゃごにゅう",
+      "page": 360,
+      "meaning": "làm tròn (4 bỏ 5 lấy)"
+    },
+    {
+      "id": 225,
+      "term": "倉庫",
+      "reading": "そうこ",
+      "page": 361,
+      "meaning": "kho (nhà kho)"
+    },
+    {
+      "id": 226,
+      "term": "倉",
+      "reading": "くら",
+      "page": 361,
+      "meaning": "kho; nhà kho"
+    },
+    {
+      "id": 227,
+      "term": "車庫",
+      "reading": "しゃこ",
+      "page": 362,
+      "meaning": "ga-ra; nhà để xe"
+    },
+    {
+      "id": 228,
+      "term": "金庫",
+      "reading": "きんこ",
+      "page": 362,
+      "meaning": "két sắt"
+    },
+    {
+      "id": 229,
+      "term": "周り",
+      "reading": "まわり",
+      "page": 363,
+      "meaning": "xung quanh"
+    },
+    {
+      "id": 230,
+      "term": "～周",
+      "reading": "～しゅう",
+      "page": 363,
+      "meaning": "vòng ~; chu kỳ ~"
+    },
+    {
+      "id": 231,
+      "term": "引き出し",
+      "reading": "ひきだし",
+      "page": 364,
+      "meaning": "ngăn kéo"
+    },
+    {
+      "id": 232,
+      "term": "引く",
+      "reading": "ひく",
+      "page": 364,
+      "meaning": "kéo; kéo ra"
+    },
+    {
+      "id": 233,
+      "term": "引力",
+      "reading": "いんりょく",
+      "page": 364,
+      "meaning": "lực hút; lực hấp dẫn"
+    },
+    {
+      "id": 234,
+      "term": "標準",
+      "reading": "ひょうじゅん",
+      "page": 365,
+      "meaning": "tiêu chuẩn"
+    },
+    {
+      "id": 235,
+      "term": "基準",
+      "reading": "きじゅん",
+      "page": 365,
+      "meaning": "tiêu chuẩn"
+    },
+    {
+      "id": 236,
+      "term": "準優勝する",
+      "reading": "じゅんゆうしょうする",
+      "page": 365,
+      "meaning": "đạt giải nhì; á quân"
+    },
+    {
+      "id": 237,
+      "term": "準備",
+      "reading": "じゅんび",
+      "page": 366,
+      "meaning": "chuẩn bị"
+    },
+    {
+      "id": 238,
+      "term": "設備",
+      "reading": "せつび",
+      "page": 366,
+      "meaning": "thiết bị; cơ sở vật chất"
+    },
+    {
+      "id": 239,
+      "term": "備える",
+      "reading": "そなえる",
+      "page": 366,
+      "meaning": "trang bị; chuẩn bị sẵn"
+    },
+    {
+      "id": 240,
+      "term": "苦しい",
+      "reading": "くるしい",
+      "page": 367,
+      "meaning": "khổ; khó chịu; đau đớn"
+    },
+    {
+      "id": 241,
+      "term": "苦い",
+      "reading": "にがい",
+      "page": 367,
+      "meaning": "đắng"
+    },
+    {
+      "id": 242,
+      "term": "苦心する",
+      "reading": "くしんする",
+      "page": 367,
+      "meaning": "lao tâm; vất vả; trăn trở"
+    },
+    {
+      "id": 243,
+      "term": "ご黒さき",
+      "reading": "ごくろさき",
+      "page": 368,
+      "meaning": "cảm ơn vì đã vất vả"
+    },
+    {
+      "id": 244,
+      "term": "労働",
+      "reading": "ろうどう",
+      "page": 368,
+      "meaning": "lao động"
+    },
+    {
+      "id": 245,
+      "term": "勤労感謝の日",
+      "reading": "きんろうかんしゃのひ",
+      "page": 368,
+      "meaning": "Ngày lễ Tạ ơn Lao động (23/11)"
+    },
+    {
+      "id": 246,
+      "term": "幸せ",
+      "reading": "しあわせ",
+      "page": 369,
+      "meaning": "hạnh phúc"
+    },
+    {
+      "id": 247,
+      "term": "幸い",
+      "reading": "さいわい",
+      "page": 369,
+      "meaning": "may mắn; may thay"
+    },
+    {
+      "id": 248,
+      "term": "幸福",
+      "reading": "こうふく",
+      "page": 370,
+      "meaning": "hạnh phúc"
+    },
+    {
+      "id": 249,
+      "term": "祝福",
+      "reading": "しゅくふく",
+      "page": 370,
+      "meaning": "chúc phúc; ban phước"
+    },
+    {
+      "id": 250,
+      "term": "福祉",
+      "reading": "ふくし",
+      "page": 370,
+      "meaning": "phúc lợi xã hội"
+    },
+    {
+      "id": 251,
+      "term": "平らな",
+      "reading": "たいらな",
+      "page": 371,
+      "meaning": "phẳng"
+    },
+    {
+      "id": 252,
+      "term": "平社員",
+      "reading": "ひらしゃいん",
+      "page": 371,
+      "meaning": "nhân viên thường"
+    },
+    {
+      "id": 253,
+      "term": "平等",
+      "reading": "びょうどう",
+      "page": 371,
+      "meaning": "bình đẳng"
+    },
+    {
+      "id": 254,
+      "term": "平和",
+      "reading": "へいわ",
+      "page": 372,
+      "meaning": "hòa bình"
+    },
+    {
+      "id": 255,
+      "term": "和服",
+      "reading": "わふく",
+      "page": 372,
+      "meaning": "trang phục Nhật (kimono, v.v.)"
+    },
+    {
+      "id": 256,
+      "term": "和室",
+      "reading": "わしつ",
+      "page": 372,
+      "meaning": "phòng kiểu Nhật"
+    },
+    {
+      "id": 257,
+      "term": "春",
+      "reading": "はる",
+      "page": 373,
+      "meaning": "mùa xuân"
+    },
+    {
+      "id": 258,
+      "term": "青春時代",
+      "reading": "せいしゅんじだい",
+      "page": 373,
+      "meaning": "thời thanh xuân"
+    },
+    {
+      "id": 259,
+      "term": "夏休み",
+      "reading": "なつやすみ",
+      "page": 374,
+      "meaning": "nghỉ hè"
+    },
+    {
+      "id": 260,
+      "term": "初夏",
+      "reading": "しょか",
+      "page": 374,
+      "meaning": "đầu mùa hè"
+    },
+    {
+      "id": 261,
+      "term": "秋",
+      "reading": "あき",
+      "page": 375,
+      "meaning": "mùa thu"
+    },
+    {
+      "id": 262,
+      "term": "晩秋",
+      "reading": "ばんしゅう",
+      "page": 375,
+      "meaning": "cuối thu"
+    },
+    {
+      "id": 263,
+      "term": "冬",
+      "reading": "ふゆ",
+      "page": 376,
+      "meaning": "mùa đông"
+    },
+    {
+      "id": 264,
+      "term": "冬眠",
+      "reading": "とうみん",
+      "page": 376,
+      "meaning": "ngủ đông"
+    },
+    {
+      "id": 265,
+      "term": "春夏秋冬",
+      "reading": "しゅんかしゅうとう",
+      "page": 376,
+      "meaning": "bốn mùa (xuân hạ thu đông)"
+    },
+    {
+      "id": 266,
+      "term": "予約する",
+      "reading": "よやくする",
+      "page": 377,
+      "meaning": "đặt trước; đặt chỗ"
+    },
+    {
+      "id": 267,
+      "term": "天気予報",
+      "reading": "てんきよほう",
+      "page": 377,
+      "meaning": "dự báo thời tiết"
+    },
+    {
+      "id": 268,
+      "term": "予備",
+      "reading": "よび",
+      "page": 377,
+      "meaning": "dự bị; chuẩn bị dự phòng"
+    },
+    {
+      "id": 269,
+      "term": "港",
+      "reading": "みなと",
+      "page": 378,
+      "meaning": "cảng"
+    },
+    {
+      "id": 270,
+      "term": "横浜港",
+      "reading": "よこはまこう",
+      "page": 378,
+      "meaning": "cảng Yokohama"
+    },
+    {
+      "id": 271,
+      "term": "空港",
+      "reading": "くうこう",
+      "page": 378,
+      "meaning": "sân bay"
+    },
+    {
+      "id": 272,
+      "term": "相当",
+      "reading": "そうとう",
+      "page": 379,
+      "meaning": "tương đương; khá/đáng kể"
+    },
+    {
+      "id": 273,
+      "term": "首相",
+      "reading": "しゅしょう",
+      "page": 379,
+      "meaning": "thủ tướng"
+    },
+    {
+      "id": 274,
+      "term": "相手",
+      "reading": "あいて",
+      "page": 379,
+      "meaning": "đối phương; người đối diện"
+    },
+    {
+      "id": 275,
+      "term": "相談する",
+      "reading": "そうだんする",
+      "page": 380,
+      "meaning": "bàn bạc; tư vấn"
+    },
+    {
+      "id": 276,
+      "term": "会談する",
+      "reading": "かいだんする",
+      "page": 380,
+      "meaning": "hội đàm; đàm phán"
+    },
+    {
+      "id": 277,
+      "term": "談話",
+      "reading": "だんわ",
+      "page": 380,
+      "meaning": "cuộc trò chuyện; phát biểu"
+    },
+    {
+      "id": 278,
+      "term": "出発する",
+      "reading": "しゅっぱつする",
+      "page": 381,
+      "meaning": "xuất phát"
+    },
+    {
+      "id": 279,
+      "term": "発表する",
+      "reading": "はっぴょうする",
+      "page": 381,
+      "meaning": "công bố"
+    },
+    {
+      "id": 280,
+      "term": "発作",
+      "reading": "ほっさ",
+      "page": 381,
+      "meaning": "cơn phát (bệnh); cơn co giật"
+    },
+    {
+      "id": 281,
+      "term": "第一課",
+      "reading": "だい～か",
+      "page": 382,
+      "meaning": "bài số ~ (bài học)"
+    },
+    {
+      "id": 282,
+      "term": "課長",
+      "reading": "かちょう",
+      "page": 382,
+      "meaning": "trưởng ban/trưởng phòng (kachou)"
+    },
+    {
+      "id": 283,
+      "term": "決める",
+      "reading": "きめる",
+      "page": 383,
+      "meaning": "quyết định; chọn"
+    },
+    {
+      "id": 284,
+      "term": "決定する",
+      "reading": "けっていする",
+      "page": 383,
+      "meaning": "quyết định"
+    },
+    {
+      "id": 285,
+      "term": "決心",
+      "reading": "けっしん",
+      "page": 383,
+      "meaning": "quyết tâm"
+    },
+    {
+      "id": 286,
+      "term": "建てる",
+      "reading": "たてる",
+      "page": 384,
+      "meaning": "xây (nhà)"
+    },
+    {
+      "id": 287,
+      "term": "建設する",
+      "reading": "けんせつする",
+      "page": 384,
+      "meaning": "xây dựng"
+    },
+    {
+      "id": 288,
+      "term": "建築家",
+      "reading": "けんちくか",
+      "page": 384,
+      "meaning": "kiến trúc sư"
+    },
+    {
+      "id": 289,
+      "term": "命",
+      "reading": "いのち",
+      "page": 385,
+      "meaning": "mạng sống"
+    },
+    {
+      "id": 290,
+      "term": "一所懸命",
+      "reading": "いっしょけんめい",
+      "page": 385,
+      "meaning": "hết sức; cố gắng hết mình"
+    },
+    {
+      "id": 291,
+      "term": "寿命",
+      "reading": "じゅみょう",
+      "page": 385,
+      "meaning": "tuổi thọ"
+    },
+    {
+      "id": 292,
+      "term": "医学",
+      "reading": "いがく",
+      "page": 386,
+      "meaning": "y học"
+    },
+    {
+      "id": 293,
+      "term": "歯医者",
+      "reading": "はいしゃ",
+      "page": 386,
+      "meaning": "nha sĩ"
+    },
+    {
+      "id": 294,
+      "term": "医科大学",
+      "reading": "いかだいがく",
+      "page": 386,
+      "meaning": "đại học y (khoa y)"
+    },
+    {
+      "id": 295,
+      "term": "医者",
+      "reading": "いしゃ",
+      "page": 387,
+      "meaning": "bác sĩ"
+    },
+    {
+      "id": 296,
+      "term": "学者",
+      "reading": "がくしゃ",
+      "page": 387,
+      "meaning": "học giả; nhà khoa học"
+    },
+    {
+      "id": 297,
+      "term": "若者",
+      "reading": "わかもの",
+      "page": 387,
+      "meaning": "người trẻ"
+    },
+    {
+      "id": 298,
+      "term": "横書き",
+      "reading": "よこがき",
+      "page": 388,
+      "meaning": "viết ngang"
+    },
+    {
+      "id": 299,
+      "term": "横になる",
+      "reading": "よこになる",
+      "page": 388,
+      "meaning": "nằm xuống"
+    },
+    {
+      "id": 300,
+      "term": "横断歩道",
+      "reading": "おうだんほどう",
+      "page": 388,
+      "meaning": "vạch qua đường; lối sang đường"
+    },
+    {
+      "id": 301,
+      "term": "治る",
+      "reading": "なおる",
+      "page": 389,
+      "meaning": "khỏi (bệnh)"
+    },
+    {
+      "id": 302,
+      "term": "政治",
+      "reading": "せいじ",
+      "page": 389,
+      "meaning": "chính trị"
+    },
+    {
+      "id": 303,
+      "term": "治療",
+      "reading": "ちりょう",
+      "page": 389,
+      "meaning": "điều trị"
+    },
+    {
+      "id": 304,
+      "term": "測る",
+      "reading": "はかる",
+      "page": 390,
+      "meaning": "đo"
+    },
+    {
+      "id": 305,
+      "term": "測定する",
+      "reading": "そくていする",
+      "page": 390,
+      "meaning": "đo đạc; đo lường"
+    },
+    {
+      "id": 306,
+      "term": "予測する",
+      "reading": "よそくする",
+      "page": 390,
+      "meaning": "dự đoán"
+    },
+    {
+      "id": 307,
+      "term": "晴れる",
+      "reading": "はれる",
+      "page": 391,
+      "meaning": "trời quang; nắng"
+    },
+    {
+      "id": 308,
+      "term": "気晴らし",
+      "reading": "きばらし",
+      "page": 391,
+      "meaning": "giải khuây; thư giãn"
+    },
+    {
+      "id": 309,
+      "term": "晴天",
+      "reading": "せいてん",
+      "page": 391,
+      "meaning": "trời trong, nắng đẹp"
+    },
+    {
+      "id": 310,
+      "term": "科学",
+      "reading": "かがく",
+      "page": 392,
+      "meaning": "khoa học"
+    },
+    {
+      "id": 311,
+      "term": "科目",
+      "reading": "かもく",
+      "page": 392,
+      "meaning": "môn học"
+    },
+    {
+      "id": 312,
+      "term": "内科",
+      "reading": "ないか",
+      "page": 392,
+      "meaning": "khoa nội"
+    },
+    {
+      "id": 313,
+      "term": "血",
+      "reading": "ち",
+      "page": 393,
+      "meaning": "máu"
+    },
+    {
+      "id": 314,
+      "term": "血圧",
+      "reading": "けつあつ",
+      "page": 393,
+      "meaning": "huyết áp"
+    },
+    {
+      "id": 315,
+      "term": "貧血",
+      "reading": "ひんけつ",
+      "page": 393,
+      "meaning": "thiếu máu"
+    },
+    {
+      "id": 316,
+      "term": "首",
+      "reading": "くび",
+      "page": 394,
+      "meaning": "cổ"
+    },
+    {
+      "id": 317,
+      "term": "首になる",
+      "reading": "くびになる",
+      "page": 394,
+      "meaning": "bị sa thải; mất việc"
+    },
+    {
+      "id": 318,
+      "term": "首都",
+      "reading": "しゅと",
+      "page": 394,
+      "meaning": "thủ đô"
+    },
+    {
+      "id": 319,
+      "term": "親指",
+      "reading": "おやゆび",
+      "page": 395,
+      "meaning": "ngón cái"
+    },
+    {
+      "id": 320,
+      "term": "指す",
+      "reading": "さす",
+      "page": 395,
+      "meaning": "chỉ; trỏ"
+    },
+    {
+      "id": 321,
+      "term": "指示する",
+      "reading": "しじする",
+      "page": 395,
+      "meaning": "chỉ thị; hướng dẫn"
+    },
+    {
+      "id": 322,
+      "term": "毛皮",
+      "reading": "けがわ",
+      "page": 396,
+      "meaning": "lông thú; áo lông"
+    },
+    {
+      "id": 323,
+      "term": "皮革製品",
+      "reading": "ひかくせいひん",
+      "page": 396,
+      "meaning": "sản phẩm da"
+    },
+    {
+      "id": 324,
+      "term": "皮肉",
+      "reading": "ひにく",
+      "page": 396,
+      "meaning": "mỉa mai; châm biếm"
+    },
+    {
+      "id": 325,
+      "term": "使用する",
+      "reading": "しようする",
+      "page": 397,
+      "meaning": "sử dụng"
+    },
+    {
+      "id": 326,
+      "term": "用事",
+      "reading": "ようじ",
+      "page": 397,
+      "meaning": "việc bận; việc cần làm"
+    },
+    {
+      "id": 327,
+      "term": "用意",
+      "reading": "ようい",
+      "page": 397,
+      "meaning": "chuẩn bị"
+    },
+    {
+      "id": 328,
+      "term": "注意する",
+      "reading": "ちゅういする",
+      "page": 398,
+      "meaning": "chú ý; cẩn thận"
+    },
+    {
+      "id": 329,
+      "term": "注文する",
+      "reading": "ちゅうもんする",
+      "page": 398,
+      "meaning": "đặt hàng; gọi món"
+    },
+    {
+      "id": 330,
+      "term": "注ぐ",
+      "reading": "そそぐ",
+      "page": 398,
+      "meaning": "rót; đổ vào"
+    },
+    {
+      "id": 331,
+      "term": "整理整頓",
+      "reading": "せいりせいとん",
+      "page": 399,
+      "meaning": "sắp xếp gọn gàng; ngăn nắp"
+    },
+    {
+      "id": 332,
+      "term": "整備",
+      "reading": "せいび",
+      "page": 399,
+      "meaning": "bảo dưỡng; chỉnh trang"
+    },
+    {
+      "id": 333,
+      "term": "整える",
+      "reading": "ととのえる",
+      "page": 399,
+      "meaning": "sắp xếp/chỉnh sửa cho gọn"
+    },
+    {
+      "id": 334,
+      "term": "走る",
+      "reading": "はしる",
+      "page": 400,
+      "meaning": "chạy"
+    },
+    {
+      "id": 335,
+      "term": "走行する",
+      "reading": "そうこうする",
+      "page": 400,
+      "meaning": "chạy/lưu thông (xe cộ)"
+    },
+    {
+      "id": 336,
+      "term": "守る",
+      "reading": "まもる",
+      "page": 401,
+      "meaning": "bảo vệ; tuân thủ"
+    },
+    {
+      "id": 337,
+      "term": "守衛",
+      "reading": "しゅえい",
+      "page": 401,
+      "meaning": "bảo vệ (gác cổng)"
+    },
+    {
+      "id": 338,
+      "term": "留守",
+      "reading": "るす",
+      "page": 401,
+      "meaning": "vắng nhà"
+    },
+    {
+      "id": 339,
+      "term": "第一",
+      "reading": "だいいち",
+      "page": 402,
+      "meaning": "thứ nhất; số một"
+    },
+    {
+      "id": 340,
+      "term": "落第する",
+      "reading": "らくだいする",
+      "page": 402,
+      "meaning": "lưu ban; rớt môn"
+    }
+  ],
+  "notes": [
+    "Trường meaning đã được bổ sung (dịch sang tiếng Việt).",
+    "Đã sửa 3 reading bị sai rõ ràng trong nguồn: 台風→たいふう; 落第する (p358)→らくだいする; 予約する (p377)→よやくする.",
+    "Lưu ý: Đây là bản dịch tham khảo; bạn có thể chỉnh lại cho phù hợp với cách học/giáo trình của bạn."
+  ]
+}
