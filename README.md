@@ -23,7 +23,7 @@ jlpt-study-hub là một ứng dụng web hỗ trợ học và luyện JLPT ch�
 ## Công nghệ sử dụng
 - Vue (khuyến nghị Vue 3)
 - TypeScript (đóng vai trò “backend logic” trong client)
-- Tooling (thường là Vite; kiểm tra `package.json` để xác nhận)
+- Tooling (Vite)
 
 ## Yêu cầu hệ thống
 - Node.js: khuyến nghị bản LTS (tối thiểu Node 18)
